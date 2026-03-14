@@ -1,0 +1,18 @@
+Saya memiliki tugas pemrograman bahasa C. 
+Buat program C untuk data stok barang yang sisimpan di dalam gudang, Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. 
+2. MASALAH / KONDISI 
+- Program dibuat menggunakan bahasa C 
+- Dijalankan di Dev C++ 
+- Untuk tugas praktikum dasar pemrograman 
+3. INPUT DAN OUTPUT Input: 
+Jumlah total data (N). Deret stok (s1, s2, ..., sN). Kode kategori barang. 
+Output: S 
+4. FORMAT YANG SAYA INGINKAN 
+- Source code C lengkap 
+- Penjelasan singkat 
+- Contoh input output 
+5. BATASAN 
+- Gunakan cara sederhana 
+- Hindari teknik yang terlalu kompleks 
+
+note ada sebuah kertas dgn ket 22pcs dasi sd, 85 pcs gula 5 pcs rok pramuka 120pcs minyak

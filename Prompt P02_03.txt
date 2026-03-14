@@ -1,0 +1,27 @@
+Saya memiliki tugas pemrograman bahasa C. 
+
+1. TUJUAN
+Buat program C untuk sebuah sistem yang mendukung operasional kafetaria IT Del.
+ dngan sistem pemesanan dan kasir, manajemen stok bahan baku, sistem antrean, sistem pembayaran (cash,tf,qriss)
+
+2. MASALAH / KONDISI
+- Program dibuat menggunakan bahasa C
+- Dijalankan di Dev C++
+- Untuk tugas praktikum dasar pemrograman
+
+3. INPUT DAN OUTPUT
+Input: sesuaikan dengan yang diminta pada soal
+sesuai 
+Output:
+ssuaikan dengan yang diinput user
+
+4. FORMAT YANG SAYA INGINKAN
+- Source code C lengkap
+- Penjelasan singkat
+- Contoh input output
+
+5. BATASAN
+- Gunakan cara sederhana
+- Hindari teknik yang terlalu kompleks
+
+buat program ini dengan hasil input dan output yang jelas dan menarik ubtuk dikerjakan, berikan code untuk soal ini, tidak ada tambahan atau batasan apa apa, tunjukkan codenya

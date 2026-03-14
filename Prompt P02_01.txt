@@ -1,0 +1,20 @@
+Saya memiliki tugas pemrograman bahasa C. 
+Buat program C untuk membuat program jasa pengiriman baru namanya Del-Express
+ 2. MASALAH / KONDISI 
+- Program dibuat menggunakan bahasa C 
+- Dijalankan di Dev C++ 
+- Untuk tugas praktikum dasar pemrograman 
+3. INPUT DAN OUTPUT Input: 
+MDN 5 
+JKT 3 
+BLG 4 
+END 
+Output: 
+Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, 
+4. FORMAT YANG SAYA INGINKAN 
+- Source code C lengkap 
+- Penjelasan singkat 
+- Contoh input output 
+5. BATASAN 
+- Gunakan cara sederhana 
+- Hindari teknik yang terlalu kompleks
